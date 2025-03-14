@@ -1,3 +1,5 @@
 # aula2
-## Subitulo
+## Subtulo
 Repositório para a aula de Github WEB DEV aula 2
+
+Outra frase
